@@ -50,7 +50,7 @@ El equipo utilizará Scrum para organizar las tareas y el desarrollo del proyect
 
 La documentación técnica del proyecto se encuentra disponible en el archivo:
 
-"basededatos.pdf"
+"base de datos.pdf"
       
 # Recursos.
 
