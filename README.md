@@ -45,12 +45,17 @@ El equipo utilizará Scrum para organizar las tareas y el desarrollo del proyect
 * Tester: Verificación y validación de funcionalidades.
 * Documentación: Elaboración de documentación técnica y funcional.
 * Soporte: Asistencia técnica y apoyo al equipo.
-      
 
+# Documentación.
+
+La documentación técnica del proyecto se encuentra disponible en el archivo:
+
+"basededatos.pdf"
+      
 # Recursos.
 
 Miro:
-https://miro.com/es/
+https://miro.com/app/board/uXjVHNTEPi0=/?share_link_id=162296606769
 
 Padlet:
 https://padlet.com/ledesmanicolas079/grupos-en-equipo-qny9f9w1sw8d8x7a
